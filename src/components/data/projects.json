@@ -1,0 +1,44 @@
+[
+  {
+    "key": 1,
+    "title": "Portfolio",
+    "imageSrc": "https://aquamarine-marigold-e9c5b9.netlify.app/images/hero.svg",
+    "description": "This is a project made with complete React Js.",
+    "source": "https://aquamarine-marigold-e9c5b9.netlify.app/"
+  },
+    {
+      "key": 2,
+      "title": "DhwaniAstro",
+      "imageSrc": "https://dhwaniastro.com/public/web/Image/complete-Kundli-Predictions-1.png",
+      "description": "This is a project made with complete HTML CSS JAVASCRIPT with PHP.",
+      "source": "https://dhwaniastro.com/"
+    },
+    {
+      "key": 3,
+      "title": "DWPS Noida Extension",
+      "imageSrc": "https://dwps.b-cdn.net/wp-content/uploads/2023/01/channel-art-1536x864-1.jpg",
+      "description": "This is a project made with complete Wordpress.",
+      "source": "https://www.dwpsnoidaex.com/"
+    },
+    {
+      "key": 4,
+      "title": "Valuez School",
+      "imageSrc": "https://valuezschool.com/Image/LMS%20FEATURE01.webp",
+      "description": "This is a project made with HTML CSS & JAVASCRIPT.",
+      "source": "https://valuezschool.com/"
+    },
+    {
+      "key": 5,
+      "title": "Swatcat",
+      "imageSrc": "https://www.swatcatpr.com/wp-content/uploads/2024/01/home-left.png",
+      "description": "This is a project made with complete Wordpress.",
+      "source": "https://www.swatcatpr.com/"
+    },
+    {
+      "key": 6,
+      "title": "ENLIGHTENMENT EDUCATION",
+      "imageSrc": "https://enlightenmenteducation.org/assets/img/students-home.jpg",
+      "description": "This is a project made with complete HTML CSS & JAVASCRIPT.",
+      "source": "https://enlightenmenteducation.org/"
+    }
+  ]

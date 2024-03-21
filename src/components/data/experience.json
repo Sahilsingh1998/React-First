@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "role": "Web Designer",
+      "organisation": "Hiccup Solutions",
+      "startDate": "Jan, 2023",
+      "endDate": "Present",
+      "location": "Noida,India",
+      "experiences": [
+        "Worked on Web Designer"
+      ],
+      "imageSrc": "company/google.png"
+    },
+    {
+      "id": 2,
+      "role": "MERN STACK",
+      "organisation": "DUCAT Noida",
+      "startDate": "Sep, 2022",
+      "endDate": "May, 2023",
+      "location": "Noida",
+      "experiences": [
+        "MERN Full Stack Developer"
+      ],
+      "imageSrc": "company/ducat.png"
+    },
+    {
+      "id": 3,
+      "role": "Developer",
+      "organisation": "Internshala",
+      "startDate": "Jan, 2022",
+      "endDate": "Jun, 2022",
+      "location": "Online Training",
+      "experiences": [
+        "Full Stack Developer"
+      ],
+      "imageSrc": "company/intern.png"
+    }
+  ]
