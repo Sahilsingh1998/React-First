@@ -8,6 +8,7 @@ import Contact from './components/Contact';
 import Aos from 'aos';
 import "aos/dist/aos.css"
 import { useEffect } from 'react';
+import GoTop from "./components/GoTop"
 
 function App() {
   useEffect(()=>{
@@ -23,6 +24,7 @@ function App() {
         <Skills />
         <Projects />
         <Contact />
+        <GoTop />
       </div>
     </>
   );
